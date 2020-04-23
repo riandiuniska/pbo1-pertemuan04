@@ -7,7 +7,7 @@ public class TugasPerulangan {
         Scanner input = new Scanner(System.in); //Untuk mengimput nilai/data dari user
 
         System.out.println ("==========|PERKALIAN|==========");
-        System.out.print ("Input angka untuk dikali = ");
+        System.out.print ("Masukkan angka sagan dikali = ");
         int angka = input.nextInt();
 
         for (int i = 1; i <= 10; ++i)
